@@ -5,6 +5,7 @@
     <url><loc>http://www.eraldahoxha.gr/</loc><lastmod>2018-10-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
     <url><loc>http://www.eraldahoxha.gr/services.html</loc><lastmod>2018-10-01</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
     <url><loc>http://www.eraldahoxha.gr/profile.html</loc><lastmod>2018-10-01</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+    <url><loc>http://www.eraldahoxha.gr/contact.html</loc><lastmod>2018-10-01</lastmod><changefreq>weekly</changefreq><priority>0.4</priority></url>
     <url><loc>http://www.eraldahoxha.gr/articles.html</loc><lastmod>2018-10-01</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
     <url><loc>http://www.eraldahoxha.gr/articles/adeia-paramonis-eksairetikoi-logoi.html</loc><lastmod>2018-10-01</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
     <url><loc>http://www.eraldahoxha.gr/articles/adeia-paramonis-eksartimeni-ergasia.html</loc><lastmod>2018-10-01</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
@@ -16,10 +17,12 @@
     <url><loc>http://www.eraldahoxha.gr/al/services.html</loc><lastmod>2018-10-01</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
     <url><loc>http://www.eraldahoxha.gr/al/profile.html</loc><lastmod>2018-10-01</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
     <url><loc>http://www.eraldahoxha.gr/al/articles.html</loc><lastmod>2018-10-01</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+    <url><loc>http://www.eraldahoxha.gr/al/contact.html</loc><lastmod>2018-10-01</lastmod><changefreq>weekly</changefreq><priority>0.4</priority></url>
 
     <url><loc>http://www.eraldahoxha.gr/en/</loc><lastmod>2018-10-01</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
     <url><loc>http://www.eraldahoxha.gr/en/services.html</loc><lastmod>2018-10-01</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
     <url><loc>http://www.eraldahoxha.gr/en/profile.html</loc><lastmod>2018-10-01</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
     <url><loc>http://www.eraldahoxha.gr/en/articles.html</loc><lastmod>2018-10-01</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+    <url><loc>http://www.eraldahoxha.gr/en/contact.html</loc><lastmod>2018-10-01</lastmod><changefreq>weekly</changefreq><priority>0.4</priority></url>
 
 </urlset>
